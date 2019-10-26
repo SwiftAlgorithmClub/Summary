@@ -16,3 +16,5 @@ LeetCode 를 같이 푸실분은 [Sample](https://github.com/SwiftAlgorithmClub/
 <img src="/pick_one.png" alt="alt text" width="400" height="whatever">
 3. 좋은 문제를 고르는법 
 <img src="/good.png" alt="alt text" width="300" height="whatever">
+
+나빠요보다 좋아요가 많이 있으면 좋은 문제입니다.
