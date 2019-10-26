@@ -10,3 +10,8 @@ LeetCode 를 같이 푸실분은 [Sample](https://github.com/SwiftAlgorithmClub/
 * [GeeksForgeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 * [동빈나 유튜브](https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
 
+## TIPS
+
+LeetCode 에서 랜덤으로 문제를 선택할려면
+
+![](/pick_one.png)
