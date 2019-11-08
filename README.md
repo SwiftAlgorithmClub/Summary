@@ -1,5 +1,15 @@
 # Summary
 
+# OpenCommunity
+
+[![Slack Status](https://slack.parceljs.org/badge.svg)](https://app.slack.com/client/TQ3DCMR08/CQ5KJJ3SA)
+
+<a href="https://open.kakao.com/o/gfCPxcJb"><img height="24px" src="https://cdn.worldvectorlogo.com/logos/kakaotalk.svg" /></a>
+
+<a href="https://www.notion.so/AGString-26a0a99a142b44b388bd2d6835030af0"><img height="24px" src="https://dl2.macupdate.com/images/icons256/57481.png" /></a>
+
+
+
 ### 알고리즘 문제
 * [Leetcode](https://leetcode.com/problemset/algorithms/ )
 
